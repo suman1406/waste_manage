@@ -21,7 +21,7 @@ We welcome contributions from developers, designers, and waste management enthus
 📧 **Contact:**
 Feel free to reach out to our team at psuman1406@gmail.com for any inquiries or collaboration opportunities.
 
-![Screenshot_2023-08-29-08-47-27-85_a6324da239bd92f8d028252fc7e14cb8](https://github.com/suman1406/waste_manage/assets/119001618/1756561c-be2a-4bc1-bd0a-7f808e118a6f)
+![Screenshot_2023-08-29-08-47-27-85_a6324da239bd92f8d028252fc7e14cb8](https://github.com/suman1406/waste_manage/assets/119001618/1756561c-be2a-4bc1-bd0a-7f808e118a6f){:width="200px"}
 
 ![Screenshot_2023-08-29-08-48-04-76_a6324da239bd92f8d028252fc7e14cb8](https://github.com/suman1406/waste_manage/assets/119001618/4c271f8d-ea56-4c81-908a-6df029fd7d9d)
 
