@@ -59,7 +59,9 @@ To clone and run this project, follow these steps:
 
 Feel free to modify and expand the instructions based on your project's specific setup and requirements. Additionally, consider including troubleshooting tips, known issues, or other helpful information for users who might be exploring your repository for the first time.
 
-![Screenshot 1](./assets/119001618/1756561c-be2a-4bc1-bd0a-7f808e118a6f.png)
-![Screenshot 2](./assets/119001618/4c271f8d-ea56-4c81-908a-6df029fd7d9d.png)
-![Screenshot 3](./assets/119001618/dff6c34a-cc5c-48bc-bb8f-17b19ebe346b.png)
-![Screenshot 4](./assets/119001618/ed14c4a4-62f4-4da0-ba76-d7ea260b5f16.png)
+![Screenshot_2023-08-29-08-47-27-85_a6324da239bd92f8d028252fc7e14cb8](https://github.com/suman1406/waste_manage/assets/119001618/3d4b389f-94af-450a-b284-32e8a73e1fd3)
+![Screenshot_2023-08-29-08-48-04-76_a6324da239bd92f8d028252fc7e14cb8](https://github.com/suman1406/waste_manage/assets/119001618/eadc0250-0ea2-4b1d-be7c-2eddfbb8a84f)
+![Screenshot_2023-08-29-08-48-38-68_a6324da239bd92f8d028252fc7e14cb8 (1)](https://github.com/suman1406/waste_manage/assets/119001618/c7e007d4-0367-470a-9998-1949dfcf4557)
+![Screenshot_2023-08-29-08-48-47-85_a6324da239bd92f8d028252fc7e14cb8 (1)](https://github.com/suman1406/waste_manage/assets/119001618/d3677192-0c22-4d2c-9f59-f8324433c820)
+
+
