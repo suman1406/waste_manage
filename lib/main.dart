@@ -5,24 +5,26 @@ import 'package:flutter/material.dart';
 import 'package:waste_manage/contributor/contributor_dashboard.dart';
 import 'package:waste_manage/user_type.dart';
 import 'admin/admin_dashboard.dart';
+import 'package:flutter_dotenv/flutter_dotenv.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
+  await dotenv.load(); // Load the environment variables
   runApp(const MyApp());
 }
 
 Future<Map<String, dynamic>> getUserDataFromDatabase(String uid) async {
   // Replace this with your actual database retrieval logic
   // Example using Firestore
-  var userDoc = await FirebaseFirestore.instance.collection('users').doc(uid).get();
+  var userDoc =
+      await FirebaseFirestore.instance.collection('users').doc(uid).get();
   if (userDoc.exists) {
     return userDoc.data() as Map<String, dynamic>;
   } else {
     return {};
   }
 }
-
 
 class MyApp extends StatelessWidget {
   const MyApp({Key? key});
@@ -64,7 +66,6 @@ class MyApp extends StatelessWidget {
           } else {
             return const UserTypePage();
           }
-
         },
       ),
       debugShowCheckedModeBanner: false,
