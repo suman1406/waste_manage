@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "94563977861",
+    "project_id": "waste-management-51d95",
+    "storage_bucket": "waste-management-51d95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94563977861:android:f01c552b368c22bac277ec",
+        "android_client_info": {
+          "package_name": "com.example.waste_manage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94563977861-tnfae5onnq42edm61bo9copc5jjgajfg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.waste_manage",
+            "certificate_hash": "eafb422b9a3dbcac15b7426ba25c79e7a79eba42"
+          }
+        },
+        {
+          "client_id": "94563977861-t21jb0aflb3uv6uffhc46e4elsr09pi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4wbz73QGSPwZayKxeDbrUhON0-2rGRfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94563977861-t21jb0aflb3uv6uffhc46e4elsr09pi0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "94563977861-dssjv5hbtc6jda5n36psslbdahnejob9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wasteManage"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

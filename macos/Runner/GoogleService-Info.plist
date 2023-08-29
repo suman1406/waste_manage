@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>94563977861-dssjv5hbtc6jda5n36psslbdahnejob9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.94563977861-dssjv5hbtc6jda5n36psslbdahnejob9</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>94563977861-tnfae5onnq42edm61bo9copc5jjgajfg.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAk66TTcaHBhZOjfEhXPIgmhpcry3waj-8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>94563977861</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.wasteManage</string>
+	<key>PROJECT_ID</key>
+	<string>waste-management-51d95</string>
+	<key>STORAGE_BUCKET</key>
+	<string>waste-management-51d95.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:94563977861:ios:716e2b268525519ac277ec</string>
+</dict>
+</plist>
