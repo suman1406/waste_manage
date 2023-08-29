@@ -1,4 +1,4 @@
-#🌐 Waste Management App
+🌐 #Waste Management App
 
 An application developed to streamline waste management processes for restaurants and contributors. This Flutter-based app offers an intuitive interface for restaurant owners to input waste data and for administrators to view waste reports. Utilizes Firebase for real-time data storage and authentication.
 
